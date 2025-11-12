@@ -1,0 +1,437 @@
+digraph G {
+node0 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float2
+Count_a"]
+node1 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node2 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node3 [shape="box" color="lightslategray" style="filled" label="VFXValue`1 Float (0)"]
+node4 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float2
+Delay_a"]
+node5 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node6 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node7 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+bounds_center"]
+node8 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node9 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node10 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node11 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+bounds_size"]
+node12 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (2)"]
+node13 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (3)"]
+node14 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (2)"]
+node15 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float2
+Count_a"]
+node16 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node17 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (20)"]
+node18 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float2
+Delay_a"]
+node19 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node20 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node21 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+bounds_center"]
+node22 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node23 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node24 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node25 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+bounds_size"]
+node26 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (2)"]
+node27 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (3)"]
+node28 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (2)"]
+node29 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+bounds_center"]
+node30 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node31 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node32 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node33 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+bounds_size"]
+node34 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (2)"]
+node35 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (3)"]
+node36 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (2)"]
+node37 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float2
+Count_a"]
+node38 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node39 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node40 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float2
+Delay_a"]
+node41 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node42 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node43 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+bounds_center"]
+node44 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node45 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node46 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node47 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+bounds_size"]
+node48 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (2)"]
+node49 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (3)"]
+node50 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (2)"]
+node51 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float2
+Count_a"]
+node52 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node53 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (2)"]
+node54 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float2
+Delay_a"]
+node55 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node56 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node57 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+bounds_center"]
+node58 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node59 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node60 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node61 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+bounds_size"]
+node62 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (2)"]
+node63 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (3)"]
+node64 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (2)"]
+node65 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,1)
+A_a"]
+node66 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,2)
+B_a"]
+node67 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+Angle_a"]
+node68 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node69 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node70 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (10)"]
+node71 [shape="box" color="cyan" style="filled" label="VFXBuiltInExpression Float (DeltaTime)
+deltaTime_b
+deltaTime_a
+deltaTime_b
+deltaTime_c
+deltaTime_d
+deltaTime_a
+deltaTime_a
+deltaTime_a"]
+node72 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+ArcSphere_sphere_center_a"]
+node73 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node74 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node75 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node76 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,1)
+ArcSphere_sphere_radius_a"]
+node77 [shape="box" color="cyan" style="filled" label="VFXExpressionMin Float
+ArcSphere_arc_a"]
+node78 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node79 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (6,283185)"]
+node80 [shape="box" color="lightslategray" style="filled" label="VFXValue`1 Float (6,283185)"]
+node81 [shape="box" color="cyan" style="filled" label="VFXExpressionPow Float
+volumeFactor_a"]
+node82 [shape="box" color="lightgray" style="filled" label="VFXExpressionSubtract Float"]
+node83 [shape="box" color="lightslategray" style="filled" label="VFXValue`1 Float (1)"]
+node84 [shape="box" color="lightslategray" style="filled" label="VFXValue`1 Float (3)"]
+node85 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,1)
+A_b"]
+node86 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,3)
+B_b"]
+node87 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (30)
+Rate_a"]
+node88 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+Sphere_center_b"]
+node89 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node90 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (-0,1)"]
+node91 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node92 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (10)
+Sphere_radius_b"]
+node93 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (20)
+attractionSpeed_b"]
+node94 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (60)
+attractionForce_b"]
+node95 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,1)
+stickDistance_b"]
+node96 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (50)
+stickForce_b"]
+node97 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,2)
+A_b"]
+node98 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,8)
+B_b"]
+node99 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+Scale_c"]
+node100 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0,1)"]
+node101 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (3)"]
+node102 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node103 [shape="box" color="cyan" style="filled" label="VFXExpressionBakeCurve Float4
+Size_d"]
+node104 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Curve (UnityEngine.AnimationCurve)"]
+node105 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+Color_e"]
+node106 [shape="box" label="VFXExpressionExtractComponent Float"]
+node107 [shape="box" label="VFXExpressionMul Float4"]
+node108 [shape="box" label="VFXValue`1 Float4 ((16.6, 42.8, 95.9, 1.0))"]
+node109 [shape="box" color="lightgray" style="filled" label="VFXExpressionCombine Float4"]
+node110 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node111 [shape="box" label="VFXExpressionExtractComponent Float"]
+node112 [shape="box" label="VFXExpressionExtractComponent Float"]
+node113 [shape="box" color="cyan" style="filled" label="VFXExpressionBakeGradient Float
+Color_f"]
+node114 [shape="box" color="lightgray" style="filled" label="VFXValue`1 ColorGradient (UnityEngine.Gradient)"]
+node115 [shape="box" color="cyan" style="filled" label="VFXExpressionDivide Float
+invSoftParticlesFadeDistance"]
+node116 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node117 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node118 [shape="box" color="lightslategray" style="filled" label="VFXValue`1 Float (0,001)"]
+node119 [shape="box" color="cyan" style="filled" label="VFXTexture2DValue Texture2D (856)
+mainTexture"]
+node120 [shape="box" color="orange" style="filled" label="VFXAttributeExpression Float3 (position)
+Value_a"]
+node121 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,1)
+A_b"]
+node122 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,2)
+B_b"]
+node123 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+Color_a"]
+node124 [shape="box" label="VFXExpressionExtractComponent Float"]
+node125 [shape="box" label="VFXExpressionMul Float4"]
+node126 [shape="box" color="lightgray" style="filled" label="VFXExpressionCombine Float4"]
+node127 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0,1)"]
+node128 [shape="box" label="VFXExpressionExtractComponent Float"]
+node129 [shape="box" label="VFXExpressionExtractComponent Float"]
+node130 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,2)
+Size_b"]
+node131 [shape="box" color="cyan" style="filled" label="VFXExpressionBakeCurve Float4
+Size_c"]
+node132 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Curve (UnityEngine.AnimationCurve)"]
+node133 [shape="box" color="cyan" style="filled" label="VFXTexture2DValue Texture2D (856)
+mainTexture"]
+node134 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (0,3)
+Lifetime_a"]
+node135 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+Angle_b"]
+node136 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node137 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node138 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (-90)"]
+node139 [shape="box" color="cyan" style="filled" label="VFXExpressionBakeCurve Float4
+TexIndex_b"]
+node140 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Curve (UnityEngine.AnimationCurve)"]
+node141 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (2)
+Size_c"]
+node142 [shape="box" color="cyan" style="filled" label="VFXExpressionBakeCurve Float4
+Size_d"]
+node143 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Curve (UnityEngine.AnimationCurve)"]
+node144 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+Color_e"]
+node145 [shape="box" label="VFXExpressionExtractComponent Float"]
+node146 [shape="box" label="VFXExpressionMul Float4"]
+node147 [shape="box" color="lightgray" style="filled" label="VFXExpressionCombine Float4"]
+node148 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0,1)"]
+node149 [shape="box" label="VFXExpressionExtractComponent Float"]
+node150 [shape="box" label="VFXExpressionExtractComponent Float"]
+node151 [shape="box" color="cyan" style="filled" label="VFXExpressionBakeGradient Float
+Color_f"]
+node152 [shape="box" color="lightgray" style="filled" label="VFXValue`1 ColorGradient (UnityEngine.Gradient)"]
+node153 [shape="box" color="cyan" style="filled" label="VFXExpressionDivide Float
+invSoftParticlesFadeDistance"]
+node154 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node155 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node156 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float2
+flipBookSize"]
+node157 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (3)"]
+node158 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (3)"]
+node159 [shape="box" color="cyan" style="filled" label="VFXExpressionDivide Float2
+invFlipBookSize"]
+node160 [shape="box" color="lightslategray" style="filled" label="VFXValue`1 Float2 ((1.0, 1.0))"]
+node161 [shape="box" color="cyan" style="filled" label="VFXTexture2DValue Texture2D (20116)
+mainTexture"]
+node162 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (15)
+Size_b"]
+node163 [shape="box" color="cyan" style="filled" label="VFXExpressionBakeCurve Float4
+Size_c"]
+node164 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Curve (UnityEngine.AnimationCurve)"]
+node165 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+Color_d"]
+node166 [shape="box" label="VFXExpressionExtractComponent Float"]
+node167 [shape="box" label="VFXExpressionMul Float4"]
+node168 [shape="box" color="lightgray" style="filled" label="VFXExpressionCombine Float4"]
+node169 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0,1)"]
+node170 [shape="box" label="VFXExpressionExtractComponent Float"]
+node171 [shape="box" label="VFXExpressionExtractComponent Float"]
+node172 [shape="box" color="cyan" style="filled" label="VFXExpressionBakeGradient Float
+Color_e"]
+node173 [shape="box" color="lightgray" style="filled" label="VFXValue`1 ColorGradient (UnityEngine.Gradient)"]
+node174 [shape="box" color="cyan" style="filled" label="VFXExpressionDivide Float
+invSoftParticlesFadeDistance"]
+node175 [shape="box" color="lightgray" style="filled" label="VFXExpressionMax Float"]
+node176 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (1)"]
+node177 [shape="box" color="cyan" style="filled" label="VFXTexture2DValue Texture2D (856)
+mainTexture"]
+node178 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+Angle_a"]
+node179 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (-90)"]
+node180 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node181 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node182 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (2)
+Lifetime_b"]
+node183 [shape="box" color="cyan" style="filled" label="VFXValue`1 Float (3)
+Size_a"]
+node184 [shape="box" color="cyan" style="filled" label="VFXExpressionCombine Float3
+Color_b"]
+node185 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node186 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node187 [shape="box" color="lightgray" style="filled" label="VFXValue`1 Float (0)"]
+node188 [shape="box" color="cyan" style="filled" label="VFXExpressionBakeGradient Float
+Color_c"]
+node189 [shape="box" color="lightgray" style="filled" label="VFXValue`1 ColorGradient (UnityEngine.Gradient)"]
+node190 [shape="box" color="cyan" style="filled" label="VFXTexture2DValue Texture2D (856)
+mainTexture"]
+node1 -> node0 [headlabel="0"]
+node1 -> node0 [headlabel="1"]
+node2 -> node1 [headlabel="0"]
+node3 -> node1 [headlabel="1"]
+node5 -> node4 [headlabel="0"]
+node5 -> node4 [headlabel="1"]
+node6 -> node5 [headlabel="0"]
+node3 -> node5 [headlabel="1"]
+node8 -> node7 [headlabel="0"]
+node9 -> node7 [headlabel="1"]
+node10 -> node7 [headlabel="2"]
+node12 -> node11 [headlabel="0"]
+node13 -> node11 [headlabel="1"]
+node14 -> node11 [headlabel="2"]
+node16 -> node15 [headlabel="0"]
+node16 -> node15 [headlabel="1"]
+node17 -> node16 [headlabel="0"]
+node3 -> node16 [headlabel="1"]
+node19 -> node18 [headlabel="0"]
+node19 -> node18 [headlabel="1"]
+node20 -> node19 [headlabel="0"]
+node3 -> node19 [headlabel="1"]
+node22 -> node21 [headlabel="0"]
+node23 -> node21 [headlabel="1"]
+node24 -> node21 [headlabel="2"]
+node26 -> node25 [headlabel="0"]
+node27 -> node25 [headlabel="1"]
+node28 -> node25 [headlabel="2"]
+node30 -> node29 [headlabel="0"]
+node31 -> node29 [headlabel="1"]
+node32 -> node29 [headlabel="2"]
+node34 -> node33 [headlabel="0"]
+node35 -> node33 [headlabel="1"]
+node36 -> node33 [headlabel="2"]
+node38 -> node37 [headlabel="0"]
+node38 -> node37 [headlabel="1"]
+node39 -> node38 [headlabel="0"]
+node3 -> node38 [headlabel="1"]
+node41 -> node40 [headlabel="0"]
+node41 -> node40 [headlabel="1"]
+node42 -> node41 [headlabel="0"]
+node3 -> node41 [headlabel="1"]
+node44 -> node43 [headlabel="0"]
+node45 -> node43 [headlabel="1"]
+node46 -> node43 [headlabel="2"]
+node48 -> node47 [headlabel="0"]
+node49 -> node47 [headlabel="1"]
+node50 -> node47 [headlabel="2"]
+node52 -> node51 [headlabel="0"]
+node52 -> node51 [headlabel="1"]
+node53 -> node52 [headlabel="0"]
+node3 -> node52 [headlabel="1"]
+node55 -> node54 [headlabel="0"]
+node55 -> node54 [headlabel="1"]
+node56 -> node55 [headlabel="0"]
+node3 -> node55 [headlabel="1"]
+node58 -> node57 [headlabel="0"]
+node59 -> node57 [headlabel="1"]
+node60 -> node57 [headlabel="2"]
+node62 -> node61 [headlabel="0"]
+node63 -> node61 [headlabel="1"]
+node64 -> node61 [headlabel="2"]
+node68 -> node67 [headlabel="0"]
+node69 -> node67 [headlabel="1"]
+node70 -> node67 [headlabel="2"]
+node73 -> node72 [headlabel="0"]
+node74 -> node72 [headlabel="1"]
+node75 -> node72 [headlabel="2"]
+node78 -> node77 [headlabel="0"]
+node80 -> node77 [headlabel="1"]
+node79 -> node78 [headlabel="0"]
+node3 -> node78 [headlabel="1"]
+node82 -> node81 [headlabel="0"]
+node84 -> node81 [headlabel="1"]
+node83 -> node82 [headlabel="0"]
+node3 -> node82 [headlabel="1"]
+node89 -> node88 [headlabel="0"]
+node90 -> node88 [headlabel="1"]
+node91 -> node88 [headlabel="2"]
+node100 -> node99 [headlabel="0"]
+node101 -> node99 [headlabel="1"]
+node102 -> node99 [headlabel="2"]
+node104 -> node103 
+node106 -> node105 [headlabel="0"]
+node111 -> node105 [headlabel="1"]
+node112 -> node105 [headlabel="2"]
+node107 -> node106 
+node108 -> node107 [headlabel="0"]
+node109 -> node107 [headlabel="1"]
+node110 -> node109 [headlabel="0"]
+node110 -> node109 [headlabel="1"]
+node110 -> node109 [headlabel="2"]
+node110 -> node109 [headlabel="3"]
+node107 -> node111 
+node107 -> node112 
+node114 -> node113 
+node83 -> node115 [headlabel="0"]
+node116 -> node115 [headlabel="1"]
+node117 -> node116 [headlabel="0"]
+node118 -> node116 [headlabel="1"]
+node124 -> node123 [headlabel="0"]
+node128 -> node123 [headlabel="1"]
+node129 -> node123 [headlabel="2"]
+node125 -> node124 
+node108 -> node125 [headlabel="0"]
+node126 -> node125 [headlabel="1"]
+node127 -> node126 [headlabel="0"]
+node127 -> node126 [headlabel="1"]
+node127 -> node126 [headlabel="2"]
+node127 -> node126 [headlabel="3"]
+node125 -> node128 
+node125 -> node129 
+node132 -> node131 
+node136 -> node135 [headlabel="0"]
+node137 -> node135 [headlabel="1"]
+node138 -> node135 [headlabel="2"]
+node140 -> node139 
+node143 -> node142 
+node145 -> node144 [headlabel="0"]
+node149 -> node144 [headlabel="1"]
+node150 -> node144 [headlabel="2"]
+node146 -> node145 
+node108 -> node146 [headlabel="0"]
+node147 -> node146 [headlabel="1"]
+node148 -> node147 [headlabel="0"]
+node148 -> node147 [headlabel="1"]
+node148 -> node147 [headlabel="2"]
+node148 -> node147 [headlabel="3"]
+node146 -> node149 
+node146 -> node150 
+node152 -> node151 
+node83 -> node153 [headlabel="0"]
+node154 -> node153 [headlabel="1"]
+node155 -> node154 [headlabel="0"]
+node118 -> node154 [headlabel="1"]
+node157 -> node156 [headlabel="0"]
+node158 -> node156 [headlabel="1"]
+node160 -> node159 [headlabel="0"]
+node156 -> node159 [headlabel="1"]
+node164 -> node163 
+node166 -> node165 [headlabel="0"]
+node170 -> node165 [headlabel="1"]
+node171 -> node165 [headlabel="2"]
+node167 -> node166 
+node108 -> node167 [headlabel="0"]
+node168 -> node167 [headlabel="1"]
+node169 -> node168 [headlabel="0"]
+node169 -> node168 [headlabel="1"]
+node169 -> node168 [headlabel="2"]
+node169 -> node168 [headlabel="3"]
+node167 -> node170 
+node167 -> node171 
+node173 -> node172 
+node83 -> node174 [headlabel="0"]
+node175 -> node174 [headlabel="1"]
+node176 -> node175 [headlabel="0"]
+node118 -> node175 [headlabel="1"]
+node179 -> node178 [headlabel="0"]
+node180 -> node178 [headlabel="1"]
+node181 -> node178 [headlabel="2"]
+node185 -> node184 [headlabel="0"]
+node186 -> node184 [headlabel="1"]
+node187 -> node184 [headlabel="2"]
+node189 -> node188 
+}

@@ -1,0 +1,67 @@
+# Blender MTL File: 'Spiderman.blend'
+# Material Count: 6
+
+newmtl Hammer_11
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.751830 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.528302 0.528302 0.528302
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Hammer_3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.751830 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.133333 0.000000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Hammer_9
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.751830 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.678431 0.071167 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl LitEy
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.481132 0.481132 0.481132
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Spider
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\My Games\\Pills & Kills\\Reference Images\\Spider.png
+map_d D:\\My Games\\Pills & Kills\\Reference Images\\Spider.png
+
+newmtl Spiderweb
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\My Games\\Pills & Kills\\Reference Images\\Spiderweb.png
+map_d D:\\My Games\\Pills & Kills\\Reference Images\\Spiderweb.png
