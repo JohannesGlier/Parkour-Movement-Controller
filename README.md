@@ -10,5 +10,5 @@ Physics-Based Movement Controller in Unity (2021.3.6f1)
 - Right Mouse Button Up = Stop Grappling Hook
 - F = Intentional Falling
 
-### Controller Support for First Person and Third Person
+### Support for First Person and Third Person
 
