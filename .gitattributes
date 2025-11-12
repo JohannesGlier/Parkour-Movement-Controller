@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+# Unity-Ordner von der Sprachanalyse ausschließen
+Library/ linguist-generated=true
+Temp/ linguist-generated=true
+obj/ linguist-generated=true
+Logs/ linguist-generated=true
+Build/ linguist-generated=true
+Builds/ linguist-generated=true
+UserSettings/ linguist-generated=true
